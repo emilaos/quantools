@@ -1,0 +1,10 @@
+Package: quantools
+Type: Package
+Title: quantools - Quantitative Analysis Tools
+Version: 0.1.0
+Author: Emiliano Hernandez Laos
+Maintainer: The package maintainer <emhlaos@gmail.com>
+Description: This R library has several tools to make quantitative analysis. It’s open source and new tools are added constantly, be sure to update regularly.
+License: MIT - non sublicense and/or sell - license 
+Encoding: UTF-8
+LazyData: true
