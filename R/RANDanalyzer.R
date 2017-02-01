@@ -1,4 +1,4 @@
-RANDanalyzer<-function(data="quote data", col="column where prices are", graph="TRUE/FALSE to plot or not plot results", det="TRUE/FALSE")
+RANDanalyzer<-function(data="quote data", col="column where prices are", graph="TRUE/FALSE to plot or not plot results", det="TRUE/FALSE", elemlimit="last number of data to process")
 {
   #MIT - non sublicence and/or sell - licence. Emiliano Hernandez Laos 2017
   #read licence at: https://gitlab.com/emhlaos/quantools
