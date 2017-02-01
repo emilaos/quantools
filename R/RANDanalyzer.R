@@ -32,11 +32,11 @@ for(a in 1:elem)
     cero<-cero+1
   }
 }
-pU<<- U/elem #probabilidad de subir
-pD<<- DU/elem #probabilidad de bajar
-pC<<- cero/elem #probabiliad de DIF=0
-up<<- ups/U #movimiento promedio de subida
-down<<- downs/DU #movimiento promedio de bajada
+pU<<- U/elem #probability to go up
+pD<<- DU/elem #probability to go down
+pC<<- cero/elem #probability that DIF=0
+up<<- ups/U #average up movement
+down<<- downs/DU #average down movement
 
 
   RAND<<-NULL
